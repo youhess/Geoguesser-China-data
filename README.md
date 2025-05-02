@@ -1,2 +1,3 @@
 # Geoguesser-China-data
-It is the data working for Vrchat Geoguesser-japan-data
+这是地理中国猜图图片仓库
+This is the storage of GeoGuesser-China
